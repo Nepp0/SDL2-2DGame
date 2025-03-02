@@ -1,8 +1,8 @@
 # SDL2-2DGame
 *A simple 2D game built with SDL2*
 # Overview
+![Fight!](https://github.com/user-attachments/assets/4952847d-f93f-4f90-bd67-52228d8a1223)
 
-This project serves as a demonstration of my implementation of SDL2 through a basic 2D game.
 This game features sprite-based rendering for both the main character and the background, with sprite frames updating dynamically within the render loop based on their width and height.
 
 # Features
